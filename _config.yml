@@ -6,9 +6,9 @@ color:
   saturation: 0.15452102664858103
   rhythmicContrast: 0.9384877250995487
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: dreamcat
