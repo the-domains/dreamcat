@@ -1,0 +1,14 @@
+layout_spectrum: 0.9714063506107777
+typography_spectrum: 0.6701876926235855
+color:
+  brandStrength: 0.6356214804109186
+  lightness: 0.41508568567223847
+  saturation: 0.15452102664858103
+  rhythmicContrast: 0.9384877250995487
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: dreamcat
